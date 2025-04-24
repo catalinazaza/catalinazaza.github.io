@@ -1,0 +1,112 @@
+---
+title: "From myth to reality: Globalisation and public spending in OECD countries revisited" 
+subtitle: "Busemeyer, Marius R. (2009)"
+format:
+  revealjs:
+    theme: sky
+    self-contained: true
+    show-slide-number: print
+    number-sections: true
+    slide-number: c/t
+    date: "21/4/2025"
+    footer: "Catalina Zaza"
+---
+
+```{r}
+setwd("C:/Users/catal/OneDrive/Escritorio/PL362/econ/images")
+```
+
+
+# Challenging conventional wisdom {.smaller}
+
+-   This article questions the mainstream view in globalization literature.
+
+-   That dominant view is coherent but biased and premature.
+
+-   It is too early to conclude that globalization has no negative impact on national public spending in OECD countries.
+
+-   In fact, the association between increasing openness and public spending is negative over time.
+
+# What if we wait a little longer? {.smaller}
+
+-   The conventional wisdom may reflect a temporary phase of globalization.
+
+-   Results may change as globalization deepens.
+
+-   It's crucial to examine longer periods to assess its real impact (until 2004)
+
+#  Competing Theories {.smaller}
+
+::: columns
+::: {.column width="50%"}
+
+* Efficiency Thesis (positive effects):
+  + Globalization increases pressure on governments to reduce taxes to avoid capital flight.
+  + Financial markets and firms penalize excessive public spending.
+  + Results: short in public spending
+
+:::
+
+:::{.column width="50%"}
+* Compensation Thesis (negative effects):
+  + Governments increase social spending to cushion the negative effects of globalization.
+  + Expansion of the welfare state helps manage external risks and economic insecurity.
+  + Results: increase in public spending
+  
+:::
+::::
+
+# Data and methodology {.smaller} 
+
+-    Traditional approaches: Uses total public spending and public social expenditure as % of GDP.
+-    Busemeyer's contribution: adds a residual category as **non-social spending** -
+-    IV:Economic openness (measured via trade openness)
+* Control variables:
+   + Unemployment
+   + Inflation
+   + Time trends
+   + Economic well-being
+   + Female labor force participation
+   + Maastricht effect (EU-related fiscal limitations)
+
+# Results {.smaller}
+
+![Busemeyer, 2004, p.18](C:/Users/catal/OneDrive/Escritorio/PL362/econ/images/table2.jpg){}
+
+##  Interpretations {.smaller}
+
+-   In 1980, each 1 percentage point increase in trade openness was associated with a 0.18-point increase in public spending (full model).
+
+-   From the 1990s onward, this effect shrinks progressively.
+
+-   By 2000, there is no statistically significant association between openness and public spending.
+
+-   The model's R² drops from 0.43 (1980) to 0.26 (2000).
+
+-   Over time, the model loses much of its explanatory power.
+
+# Conclusions {.smaller}
+
+![Busemeyer, 2004, p.24](C:/Users/catal/OneDrive/Escritorio/PL362/econ/images/figure1.jpg){}
+#
+
+-   The positive effects of globalization on public and social spending have weakened over time.
+
+-   In the 1980s and early 1990s, globalization may have contributed to welfare expansion.
+
+-   But from the 2000s, the negative scenario becomes more prominent.
+
+-   It's essential to study globalization across longer time periods, including the 2000s.
+
+-   Pay attention to both cross-sectional and over-time dimensions.
+
+# Question
+
+-   Given that the positive relationship between globalization and social spending seems to weaken over time, can we still argue that economic openness strengthens the welfare state? Or is this a temporary compensation effect that fades as globalization deepens?
+
+
+
+
+   
+
+    

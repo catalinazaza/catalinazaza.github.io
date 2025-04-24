@@ -3,14 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "catalinazaza.github.io"
+  title: "Catalina Zaza"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - portfolio.qmd
+      - text: Portfolio
+        menu:
+          - href: portfolio.qmd
+            text: Descripción general
+          - href: portfolio/proyecto1.qmd
+            text: Proyecto 1
 
+      
 format:
   html:
     theme: cosmo

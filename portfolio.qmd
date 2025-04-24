@@ -1,0 +1,7 @@
+---
+title: "portfolio"
+format: html
+editor: visual
+---
+
+this are some of the things I have been working on

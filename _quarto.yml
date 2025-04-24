@@ -12,7 +12,7 @@ website:
         menu:
           - href: portfolio.qmd
             text: Descripción general
-          - href: portfolio/proyecto1.qmd
+          - href: portfolio/Busemeyer2009.html
             text: Proyecto 1
 
       

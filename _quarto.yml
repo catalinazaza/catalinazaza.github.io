@@ -13,7 +13,7 @@ website:
           - href: portfolio.qmd
             text: Descripción general
           - href: portfolio/Busemeyer2009.html
-            text: Proyecto 1
+            text: Presentation:Busemeyer, 2009
 
       
 format:

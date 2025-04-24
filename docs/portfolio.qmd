@@ -1,5 +1,7 @@
 ---
 title: "Portfolio"
+format: html
+editor: visual
 ---
 
-You can check the projects I've done or I am working on
+You can check the projects I've conducted or I am working on
